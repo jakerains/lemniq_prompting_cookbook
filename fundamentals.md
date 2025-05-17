@@ -1,12 +1,12 @@
 # 2. Prompt Fundamentals
 
 ## Table of Contents
-- [2.1 The lemnIQ Formula](#21-the-lemniq-formula)
+- [2.1 The lemn**IQ** Formula](#21-the-lemniq-formula)
 - [2.2 When to Ask Follow-Up Questions](#22-when-to-ask-follow-up-questions)
 - [2.3 Temperature & Top-p Crash Course](#23-temperature--top-p-crash-course)
 - [2.4 Prompt Iteration Cycle](#24-prompt-iteration-cycle)
 
-## 2.1 The lemnIQ Formula
+## 2.1 The lemn**IQ** Formula
 ```
 ROLE + TASK + CONTEXT + STYLE + CONSTRAINTS (+ EXAMPLES)
 ```
@@ -46,7 +46,7 @@ Imagine a dashboard that practically winks at you while juggling chatbots, predi
 
 ## 2.4 Prompt Iteration Cycle
 1. **Plan:** Decide the role, task, and constraints you need.
-2. **Write:** Draft your initial prompt using the lemnIQ Formula.
+2. **Write:** Draft your initial prompt using the lemn**IQ** Formula.
 3. **Critique:** Review the response for gaps or tone issues.
 4. **Revise:** Tweak the prompt or provide clarifications, then repeat.
 

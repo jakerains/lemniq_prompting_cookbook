@@ -1,9 +1,9 @@
-# AGENTS.md – Build Plan for lemnIQ Prompting Cookbook
+# AGENTS.md – Build Plan for lemn**IQ** Prompting Cookbook
 
 _Instructions and task breakdown for autonomous or semi‑autonomous agents charged with completing and polishing the cookbook._
 
 ## 1. Purpose
-This file orchestrates multiple specialized agents (or agentic “steps”) to flesh out, refine, and QA every Markdown page inside the **lemnIQ Prompting Cookbook** project.
+This file orchestrates multiple specialized agents (or agentic “steps”) to flesh out, refine, and QA every Markdown page inside the lemn**IQ** Prompting Cookbook project.
 
 ## 2. Directory Overview
 ```
@@ -38,11 +38,11 @@ lemniq_prompting_cookbook/
 ### 4.1 README.md
 1. **Content Author:** Add high‑level cookbook summary (≤120 words).
 2. **Formatter:** Verify directory tree code block uses backticks & fixed‑width font.
-3. **QA:** Spell‑check and ensure “lemnIQ” styling (lowercase “lemn”, bold IQ where context allows).
+3. **QA:** Spell‑check and ensure “lemn**IQ**” styling (lowercase “lemn”, bold IQ where context allows).
 
 ### 4.2 fundamentals.md
 * Flesh out **2.4** section on *Prompt Iteration Cycle* (plan‑write‑critique‑revise).
-* Insert diagram description (alt text) that visualizes the lemnIQ Formula flow.
+* Insert diagram description (alt text) that visualizes the lemn**IQ** Formula flow.
 * Provide two prompts demonstrating temperature extremes (0.2 vs 0.8) with outputs.
 
 ### 4.3 advanced_techniques.md
@@ -78,7 +78,7 @@ lemniq_prompting_cookbook/
 * Cookbook <= 25 MB total (for repo portability).
 
 ## 7. Stretch Tasks
-* **Diagram Agent**: Generate SVG flow diagrams for lemnIQ Formula and Prompt Lifecycle.
+* **Diagram Agent**: Generate SVG flow diagrams for lemn**IQ** Formula and Prompt Lifecycle.
 * [x] **Localization Agent**: Draft a Spanish‑language README.es.md.
 * **Packaging Agent**: Create a GitHub Action that zips and publishes the latest cookbook as a downloadable artifact on every tag.
 
@@ -109,4 +109,4 @@ lemniq_prompting_cookbook/
 * Document contribution guidelines for external PRs.
 
 ---
-*Last updated: 17 May 2025 by lemnIQ AI Ops.*
+*Last updated: 17 May 2025 by lemn**IQ** AI Ops.*
