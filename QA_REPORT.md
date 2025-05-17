@@ -9,7 +9,7 @@ Date: 2025-05-17
 - Due to network restrictions, package installation for automated spell-checking was unavailable, so verification was done manually.
 
 ## Consistency Review
-- All instances of the product name use the **lemnIQ** styling as required.
+- All instances of the product name use the lemn**IQ** styling as required.
 - Markdown code fences are balanced in every file.
 - Tables render correctly and headings follow sequential numbering.
 - No trailing whitespace detected across files.
