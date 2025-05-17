@@ -1,4 +1,10 @@
-# lemn**IQ** Prompting Cookbook
+# lemn**IQ** Prompting Cookbook 📚✨
+
+<p align="center">
+  <img alt="lemnIQ cookbook badge" src="https://img.shields.io/badge/lemnIQ-cookbook-blueviolet?style=for-the-badge">
+  <img alt="Powered by ChatGPT" src="https://img.shields.io/badge/powered%20by-ChatGPT-ffce50?logo=openai&amp;logoColor=white&amp;style=for-the-badge">
+  <img alt="Fun prompts inside" src="https://img.shields.io/badge/fun%20prompts-inside-%23ff69b4?style=for-the-badge">
+</p>
 
 *A practical recipe book for crafting ChatGPT prompts that work—minus the jargon.*
 
@@ -34,10 +40,10 @@ lemniq_prompting_cookbook/
 **How to use it:** Copy a recipe, swap in your details, iterate twice, profit.
 
 **Benefits:**
-- Speed up content creation without hiring extra staff
-- Automate repetitive analysis for quick insights
-- Test marketing angles before launching campaigns
+- 🚀 Speed up content creation without hiring extra staff
+- 🤖 Automate repetitive analysis for quick insights
+- 🎯 Test marketing angles before launching campaigns
 
 > *Rule #1:* A prompt is a conversation starter, not a one‑and‑done incantation.
-## Responsible Use & Data Privacy
+## Responsible Use & Data Privacy 🔒
 Use lemn**IQ** recipes responsibly. Avoid sharing confidential or personal data in prompts. Review model outputs before relying on them, ensuring they meet your organization's policies and ethical standards.
