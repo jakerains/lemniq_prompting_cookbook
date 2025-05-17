@@ -1,0 +1,26 @@
+# MkDocs build files
+site/
+
+# Node modules if we add any JS functionality
+node_modules/
+
+# Python virtual environment
+venv/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp 

@@ -1,0 +1,74 @@
+site_name: lemnIQ Prompting Cookbook
+site_description: A practical recipe book for crafting ChatGPT prompts that work—minus the jargon
+site_url: https://jakerains.github.io/lemniq_prompting_cookbook
+repo_url: https://github.com/jakerains/lemniq_prompting_cookbook
+repo_name: jakerains/lemniq_prompting_cookbook
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+    - search.highlight
+    - toc.follow
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jakerains/lemniq_prompting_cookbook
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Fundamentals: fundamentals.md
+  - Advanced Techniques: 
+    - Overview: advanced-techniques/index.md
+    - Role Stacking: advanced-techniques/role-stacking.md
+    - Tool Calling: advanced-techniques/tool-calling.md
+    - Chain-of-Thought: advanced-techniques/chain-of-thought.md
+    - System-Prompt Guards: advanced-techniques/system-prompt-guards.md
+    - Multi-Agent Orchestration: advanced-techniques/multi-agent-orchestration.md
+  - Recipes:
+    - Writing & Marketing: recipes/writing-marketing.md
+    - Analysis & Strategy: recipes/analysis-strategy.md
+    - Automation & Scripting: recipes/automation-scripting.md
+    - Learning & Coaching: recipes/learning-coaching.md
+  - Examples:
+    - Role Stacking Example: prompt-examples/role-stacking-example.md
+  - Troubleshooting: troubleshooting.md
+  - Quick Reference: quick_reference.md
+  - Resources: resources.md
+  - Model Matrix: model-matrix.md
+
+plugins:
+  - search 
