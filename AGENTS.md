@@ -79,7 +79,7 @@ lemniq_prompting_cookbook/
 
 ## 7. Stretch Tasks
 * **Diagram Agent**: Generate SVG flow diagrams for lemnIQ Formula and Prompt Lifecycle.
-* **Localization Agent**: Draft a Spanish‑language README.es.md.
+* [x] **Localization Agent**: Draft a Spanish‑language README.es.md.
 * **Packaging Agent**: Create a GitHub Action that zips and publishes the latest cookbook as a downloadable artifact on every tag.
 
 ## Completed Tasks
@@ -97,7 +97,7 @@ lemniq_prompting_cookbook/
 * [x] Document additional pitfalls such as instruction-following failures.
 * [x] Improve quick-reference docs with shortcuts or cheat‑sheet prompts.
 * Diversify learning resources beyond podcasts and YouTube.
-* Provide at least one translated README (e.g., Spanish).
+* [x] Provide at least one translated README (e.g., Spanish).
 * Create a visual diagram of the Prompt Iteration Cycle.
 * Summarize each section with a short TL;DR box.
 * Maintain a version history or changelog.
