@@ -39,3 +39,5 @@ lemniq_prompting_cookbook/
 - Test marketing angles before launching campaigns
 
 > *Rule #1:* A prompt is a conversation starter, not a one‑and‑done incantation.
+## Responsible Use & Data Privacy
+Use lemn**IQ** recipes responsibly. Avoid sharing confidential or personal data in prompts. Review model outputs before relying on them, ensuring they meet your organization's policies and ethical standards.

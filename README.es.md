@@ -30,3 +30,6 @@ lemniq_prompting_cookbook/
 - Prueba ángulos de marketing antes de lanzar campañas
 
 > *Regla #1:* Un prompt es el inicio de una conversación, no un conjuro de una sola vez.
+
+## Uso Responsable y Privacidad
+Utiliza las recetas de lemn**IQ** de manera responsable. No ingreses datos confidenciales o información personal en los prompts. Revisa las respuestas antes de usarlas y asegúrate de que cumplan las políticas y estándares éticos de tu organización.
