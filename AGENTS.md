@@ -82,5 +82,15 @@ lemniq_prompting_cookbook/
 * **Localization Agent**: Draft a Spanish‑language README.es.md.
 * **Packaging Agent**: Create a GitHub Action that zips and publishes the latest cookbook as a downloadable artifact on every tag.
 
+## Completed Tasks
+* [x] README summary added
+* [x] Section 2.4 on Prompt Iteration Cycle
+* [x] Recipe expansions
+
+## Upcoming Improvements
+* Refine examples for clarity
+* Automate link checks
+* Expand localization coverage
+
 ---
 *Last updated: 17 May 2025 by lemnIQ AI Ops.*
