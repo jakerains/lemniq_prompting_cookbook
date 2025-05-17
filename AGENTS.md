@@ -101,7 +101,6 @@ lemniq_prompting_cookbook/
 * Create a visual diagram of the Prompt Iteration Cycle.
 * Summarize each section with a short TL;DR box.
 * Maintain a version history or changelog.
-* Add an index of which recipe covers which topic.
 * Embed code snippets (Python/Bash) where relevant.
 * Check header hierarchy for accessibility.
 * Insert a usage warning about data privacy or responsible AI.

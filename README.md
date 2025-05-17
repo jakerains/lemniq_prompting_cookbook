@@ -22,6 +22,13 @@ lemniq_prompting_cookbook/
     ├── Automation_Scripting.md
     └── Learning_Coaching.md
 ```
+## Recipe Index
+| Recipe File | Topic Covered |
+| ----------- | ------------- |
+| **Writing_Marketing.md** | Copywriting and marketing content |
+| **Analysis_Strategy.md** | Market analysis and strategic planning |
+| **Automation_Scripting.md** | Automation tasks and code snippets |
+| **Learning_Coaching.md** | Learning aids and coaching prompts |
 ## About This Cookbook
 **Who it’s for:** Busy founders, marketers, and non‑technical teams who need AI to *do* things—not just chat about them.
 
