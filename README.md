@@ -27,4 +27,9 @@ lemniq_prompting_cookbook/
 
 **How to use it:** Copy a recipe, swap in your details, iterate twice, profit.
 
+**Benefits:**
+- Speed up content creation without hiring extra staff
+- Automate repetitive analysis for quick insights
+- Test marketing angles before launching campaigns
+
 > *Rule #1:* A prompt is a conversation starter, not a one‑and‑done incantation.
