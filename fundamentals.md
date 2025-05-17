@@ -10,7 +10,7 @@
 ```
 ROLE + TASK + CONTEXT + STYLE + CONSTRAINTS (+ EXAMPLES)
 ```
-![Flowchart showing Role, Task, Context, Style, Constraints, and Examples feeding into a final prompt box](lemniq-formula.svg)
+![Diagram of the lemnIQ formula with Role, Task, Context, Style, Constraints, and optional Examples flowing into a final prompt box](lemniq-formula.svg)
 
 * **ROLE:** “You are an empathetic copywriter …”
 * **TASK:** “… draft a 2‑paragraph intro …”
@@ -34,20 +34,21 @@ If ChatGPT might need info you haven’t provided (e.g., audience pain points), 
 ```
 Summarize the core benefit of CRM software in one sentence.
 ```
-**Output:**
+**Output (GPT-4o, <120 words):**
 CRM software centralizes customer data so teams can track and manage relationships efficiently.
 
 **Prompt (0.8):**
 ```
 Describe the future of CRM tools in a playful tone.
 ```
-**Output:**
+**Output (GPT-4o, <120 words):**
 Imagine a dashboard that practically winks at you while juggling chatbots, predictive analytics, and friendly nudges so no lead slips away.
 
 ## 2.4 Prompt Iteration Cycle
-1. **Plan:** Decide the role, task, and constraints you need.
-2. **Write:** Draft your initial prompt using the lemnIQ Formula.
-3. **Critique:** Review the response for gaps or tone issues.
-4. **Revise:** Tweak the prompt or provide clarifications, then repeat.
+The prompt iteration cycle turns a rough idea into a refined prompt through a simple four-step loop:
+1. **Plan** – Decide the role, task, context, and constraints.
+2. **Write** – Draft your prompt using the lemnIQ formula.
+3. **Critique** – Examine the response for gaps or tone issues.
+4. **Revise** – Adjust the prompt or add clarifications, then test again.
 
-This cycle turns a rough prompt into a reliable workflow in just a few passes.
+Repeat until the response matches your needs; two or three passes usually do the trick.
