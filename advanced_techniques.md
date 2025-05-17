@@ -20,7 +20,7 @@
 You are a polite AI. If user request violates policy X, refuse with apology.
 ```
 
-5. **Multi-Agent Prompt Orchestration** – Coordinate specialized bots:
+## 4.5 Multi-Agent Prompt Orchestration
 ```json
 {
   "agents": [
