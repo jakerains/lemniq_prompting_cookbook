@@ -19,3 +19,16 @@
 ```text
 You are a polite AI. If user request violates policy X, refuse with apology.
 ```
+
+5. **Multi-Agent Prompt Orchestration** – Coordinate specialized bots:
+```json
+{
+  "agents": [
+    {"role": "Researcher", "goal": "Gather facts"},
+    {"role": "Writer", "goal": "Draft post"}
+  ],
+  "handoff": "Researcher summarizes findings, Writer produces final text"
+}
+```
+Example system prompt:
+> "Agent 1 delivers a bullet list to Agent 2. Agent 2 writes a concise summary for our newsletter."
