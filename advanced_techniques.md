@@ -28,14 +28,21 @@ You are a polite AI. If user request violates policy X, refuse with apology.
 ```
 
 ## 4.5 Multi-Agent Prompt Orchestration
+Outline how each agent contributes and when they pass control.
+
 ```json
 {
   "agents": [
-    {"role": "Researcher", "goal": "Gather facts"},
-    {"role": "Writer", "goal": "Draft post"}
+    {"id": "agent_1", "role": "Researcher", "goal": "Gather facts"},
+    {"id": "agent_2", "role": "Writer", "goal": "Draft post"}
   ],
-  "handoff": "Researcher summarizes findings, Writer produces final text"
+  "handoff": "agent_1->agent_2",
+  "task_flow": "Researcher summarizes findings for Writer, who crafts final text"
 }
 ```
-Example system prompt:
-> "Agent 1 delivers a bullet list to Agent 2. Agent 2 writes a concise summary for our newsletter."
+
+Example workflow:
+1. **Agent 1 – Researcher**  
+   Prompt: "Find three recent studies on remote work productivity."
+2. **Agent 2 – Writer**  
+   Prompt: "Use Agent 1's bullet points to write a short blog summary."
