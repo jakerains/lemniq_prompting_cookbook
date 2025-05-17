@@ -1,5 +1,11 @@
 # 2. Prompt Fundamentals
 
+## Table of Contents
+- [2.1 The lemnIQ Formula](#21-the-lemniq-formula)
+- [2.2 When to Ask Follow-Up Questions](#22-when-to-ask-follow-up-questions)
+- [2.3 Temperature & Top-p Crash Course](#23-temperature--top-p-crash-course)
+- [2.4 Prompt Iteration Cycle](#24-prompt-iteration-cycle)
+
 ## 2.1 The lemnIQ Formula
 ```
 ROLE + TASK + CONTEXT + STYLE + CONSTRAINTS (+ EXAMPLES)

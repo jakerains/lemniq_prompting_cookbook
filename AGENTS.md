@@ -49,18 +49,18 @@ lemniq_prompting_cookbook/
 * Add section **4.5 Multi‑Agent Prompt Orchestration** (simple JSON schema + example).
 
 ### 4.4 troubleshooting.md
-* Expand table with at least three more common issues (rate‑limits, policy refusal, formatting loss).
-* Add “When to escalate to human” checklist.
+* [x] Expand table with at least three more common issues (rate‑limits, policy refusal, formatting loss).
+* [x] Add “When to escalate to human” checklist.
 
 ### 4.5 quick_reference.md
-* Convert shortcut list into a two‑column table if width permits.
+* [x] Convert shortcut list into a two‑column table if width permits.
 
 ### 4.6 resources.md
-* Add 3 podcasts, 2 YouTube channels, and 1 newsletter relevant to prompt engineering.
+* [x] Add 3 podcasts, 2 YouTube channels, and 1 newsletter relevant to prompt engineering.
 
 ### 4.7 recipes/\*.md
-* Each recipe file must reach **min. 5** use‑cases with template + 1 example each.
-* Example Curator Agent to run prompts in GPT‑4o and paste trimmed outputs (<120 words).
+* [x] Each recipe file must reach **min. 5** use‑cases with template + 1 example each.
+* [x] Example Curator Agent to run prompts in GPT‑4o and paste trimmed outputs (<120 words).
 
 ## 5. Workflow & Dependencies
 1. **Content Author** drafts/expands sections (label commit `content-draft`).
@@ -88,14 +88,14 @@ lemniq_prompting_cookbook/
 * [x] Recipe expansions
 
 ## Upcoming Improvements
-* Expand "About This Cookbook" with a benefits/use-cases bullet list.
-* Add a Table of Contents to `fundamentals.md` and `advanced_techniques.md`.
+* [x] Expand "About This Cookbook" with a benefits/use-cases bullet list.
+* [x] Add a Table of Contents to `fundamentals.md` and `advanced_techniques.md`.
 * Include more detailed examples in the recipes.
 * Link cross-references between related sections.
 * Add a glossary of prompt-engineering terms.
-* Ensure diagrams (e.g., `lemniq-formula.svg`) have descriptive alt text.
-* Document additional pitfalls such as instruction-following failures.
-* Improve quick-reference docs with shortcuts or cheat‑sheet prompts.
+* [x] Ensure diagrams (e.g., `lemniq-formula.svg`) have descriptive alt text.
+* [x] Document additional pitfalls such as instruction-following failures.
+* [x] Improve quick-reference docs with shortcuts or cheat‑sheet prompts.
 * Diversify learning resources beyond podcasts and YouTube.
 * Provide at least one translated README (e.g., Spanish).
 * Create a visual diagram of the Prompt Iteration Cycle.

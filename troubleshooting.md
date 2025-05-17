@@ -8,6 +8,7 @@
 | Rate limit errors | API quota exceeded       | Retry after waiting; monitor usage.        |
 | Policy refusal   | Content violates policy  | Rephrase request within guidelines.        |
 | Formatting lost  | Markdown stripped        | Enclose sections in triple backticks.      |
+| Instructions not followed | Prompt unclear or conflicting | Break complex requests into numbered steps and restate key points. |
 
 ## When to Escalate to a Human
 - Response seems legally or ethically risky
