@@ -88,9 +88,26 @@ lemniq_prompting_cookbook/
 * [x] Recipe expansions
 
 ## Upcoming Improvements
-* Refine examples for clarity
-* Automate link checks
-* Expand localization coverage
+* Expand "About This Cookbook" with a benefits/use-cases bullet list.
+* Add a Table of Contents to `fundamentals.md` and `advanced_techniques.md`.
+* Include more detailed examples in the recipes.
+* Link cross-references between related sections.
+* Add a glossary of prompt-engineering terms.
+* Ensure diagrams (e.g., `lemniq-formula.svg`) have descriptive alt text.
+* Document additional pitfalls such as instruction-following failures.
+* Improve quick-reference docs with shortcuts or cheat‑sheet prompts.
+* Diversify learning resources beyond podcasts and YouTube.
+* Provide at least one translated README (e.g., Spanish).
+* Create a visual diagram of the Prompt Iteration Cycle.
+* Summarize each section with a short TL;DR box.
+* Maintain a version history or changelog.
+* Add an index of which recipe covers which topic.
+* Embed code snippets (Python/Bash) where relevant.
+* Check header hierarchy for accessibility.
+* Insert a usage warning about data privacy or responsible AI.
+* Introduce a linter or GitHub Action for automatic testing.
+* Include screenshots of real model outputs if available.
+* Document contribution guidelines for external PRs.
 
 ---
 *Last updated: 17 May 2025 by lemnIQ AI Ops.*
