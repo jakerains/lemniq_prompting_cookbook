@@ -1,6 +1,11 @@
-# lemnIQ Prompting Cookbook
+# lemn**IQ** Prompting Cookbook
 
 *A practical recipe book for crafting ChatGPT prompts that work—minus the jargon.*
+
+This cookbook distills best practices for writing prompts that produce repeatable,
+useful results. Each chapter walks through fundamentals, advanced methods, and
+ready-made recipes for common business tasks. Follow the examples and iterate on
+the templates to quickly adapt prompts for your own needs.
 
 ## Directory Structure
 ```
