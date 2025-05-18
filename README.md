@@ -48,3 +48,9 @@ lemniq_prompting_cookbook/
 > *Rule #1:* A prompt is a conversation starter, not a one‑and‑done incantation.
 ## Responsible Use & Data Privacy 🔒
 Use lemn**IQ** recipes responsibly. Avoid sharing confidential or personal data in prompts. Review model outputs before relying on them, ensuring they meet your organization's policies and ethical standards.
+
+## Building the Docs
+1. Install dependencies with `pip install mkdocs-material`.
+2. Run `mkdocs serve` to preview changes locally.
+
+The published site is available at <https://jakerains.github.io/lemniq_prompting_cookbook>.
