@@ -53,3 +53,4 @@ Imagine a dashboard that practically winks at you while juggling chatbots, predi
 This cycle turns a rough prompt into a reliable workflow in just a few passes.
 
 Continue with the [Advanced Techniques](advanced_techniques.md) section to orchestrate multi-step prompts.
+Need a refresher on terminology? Check the [Glossary](glossary.md).

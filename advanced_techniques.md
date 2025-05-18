@@ -48,3 +48,4 @@ Example workflow:
    Prompt: "Use Agent 1's bullet points to write a short blog summary."
 
 Need troubleshooting tips? See the [Guide](troubleshooting.md).
+Not sure about certain terms? Consult the [Glossary](glossary.md).
