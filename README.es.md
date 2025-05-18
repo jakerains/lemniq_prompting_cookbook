@@ -1,4 +1,5 @@
 # lemn**IQ** Libro de Recetas de Prompts
+Disponible en [inglés](README.md).
 
 *Un recetario práctico para crear prompts de ChatGPT que funcionan—sin jerga.*
 
