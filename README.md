@@ -1,4 +1,5 @@
 # lemn**IQ** Prompting Cookbook 📚✨
+Disponible en [Español](README.es.md).
 
 <p align="center">
   <img alt="lemnIQ cookbook badge" src="https://img.shields.io/badge/lemnIQ-cookbook-blueviolet?style=for-the-badge">
